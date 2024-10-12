@@ -16,11 +16,11 @@ body {
 }
 .logo img{
     width: 120px;
-    height: 100px;
+    height: 120px;
     display: flex;
     position: absolute;
     left: 9px;
-    bottom: 2px;
+    bottom: -12px;
 }
 
 /* Navigation Bar */
@@ -56,7 +56,7 @@ nav ul li a:hover {
 
 /* Hero Section */
 #hero {
-    background: url('home.jpg') no-repeat center center/cover;
+    background: url('img/home.WebP.webp') no-repeat center center/cover;
     color: white;
     text-align: center;
     padding: 150px 0;
@@ -225,10 +225,10 @@ footer {
     padding: 20px;
 }
 
-.footer-section h3 {
+.footer-section h2 {
     margin-bottom: 15px;
     font-size: 1.5em;
-    color: #0466f9;
+    color: #f9af04;
 }
 
 .footer-section p {
